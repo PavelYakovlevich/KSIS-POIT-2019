@@ -1,0 +1,14 @@
+D:\KSIS\lab3-Rest_Api\lab3-Rest_Api\bin\Debug\lab3-Rest_Api.exe.config
+D:\KSIS\lab3-Rest_Api\lab3-Rest_Api\bin\Debug\lab3-Rest_Api.exe
+D:\KSIS\lab3-Rest_Api\lab3-Rest_Api\bin\Debug\lab3-Rest_Api.pdb
+D:\KSIS\lab3-Rest_Api\lab3-Rest_Api\obj\Debug\lab3-Rest_Api.csprojAssemblyReference.cache
+D:\KSIS\lab3-Rest_Api\lab3-Rest_Api\obj\Debug\lab3-Rest_Api.csproj.CoreCompileInputs.cache
+D:\KSIS\lab3-Rest_Api\lab3-Rest_Api\obj\Debug\lab3-Rest_Api.exe
+D:\KSIS\lab3-Rest_Api\lab3-Rest_Api\obj\Debug\lab3-Rest_Api.pdb
+D:\KSIS\KSIS-labs-2019\lab3-Rest_Api\lab3-Rest_Api\bin\Debug\lab3-Rest_Api.exe.config
+D:\KSIS\KSIS-labs-2019\lab3-Rest_Api\lab3-Rest_Api\bin\Debug\lab3-Rest_Api.exe
+D:\KSIS\KSIS-labs-2019\lab3-Rest_Api\lab3-Rest_Api\bin\Debug\lab3-Rest_Api.pdb
+D:\KSIS\KSIS-labs-2019\lab3-Rest_Api\lab3-Rest_Api\obj\Debug\lab3-Rest_Api.csprojAssemblyReference.cache
+D:\KSIS\KSIS-labs-2019\lab3-Rest_Api\lab3-Rest_Api\obj\Debug\lab3-Rest_Api.csproj.CoreCompileInputs.cache
+D:\KSIS\KSIS-labs-2019\lab3-Rest_Api\lab3-Rest_Api\obj\Debug\lab3-Rest_Api.exe
+D:\KSIS\KSIS-labs-2019\lab3-Rest_Api\lab3-Rest_Api\obj\Debug\lab3-Rest_Api.pdb

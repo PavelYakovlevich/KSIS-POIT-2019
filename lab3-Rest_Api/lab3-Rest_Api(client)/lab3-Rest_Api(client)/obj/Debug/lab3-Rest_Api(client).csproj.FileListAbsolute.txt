@@ -1,0 +1,7 @@
+C:\Users\Mi Pro\source\repos\lab3-Rest_Api(client)\lab3-Rest_Api(client)\bin\Debug\lab3-Rest_Api(client).exe.config
+C:\Users\Mi Pro\source\repos\lab3-Rest_Api(client)\lab3-Rest_Api(client)\bin\Debug\lab3-Rest_Api(client).exe
+C:\Users\Mi Pro\source\repos\lab3-Rest_Api(client)\lab3-Rest_Api(client)\bin\Debug\lab3-Rest_Api(client).pdb
+C:\Users\Mi Pro\source\repos\lab3-Rest_Api(client)\lab3-Rest_Api(client)\obj\Debug\lab3-Rest_Api(client).csprojAssemblyReference.cache
+C:\Users\Mi Pro\source\repos\lab3-Rest_Api(client)\lab3-Rest_Api(client)\obj\Debug\lab3-Rest_Api(client).csproj.CoreCompileInputs.cache
+C:\Users\Mi Pro\source\repos\lab3-Rest_Api(client)\lab3-Rest_Api(client)\obj\Debug\lab3-Rest_Api(client).exe
+C:\Users\Mi Pro\source\repos\lab3-Rest_Api(client)\lab3-Rest_Api(client)\obj\Debug\lab3-Rest_Api(client).pdb

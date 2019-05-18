@@ -1,0 +1,7 @@
+D:\KSIS\lab2\Server\Server\bin\Debug\Server.exe.config
+D:\KSIS\lab2\Server\Server\bin\Debug\Server.exe
+D:\KSIS\lab2\Server\Server\bin\Debug\Server.pdb
+D:\KSIS\lab2\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\KSIS\lab2\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\KSIS\lab2\Server\Server\obj\Debug\Server.exe
+D:\KSIS\lab2\Server\Server\obj\Debug\Server.pdb

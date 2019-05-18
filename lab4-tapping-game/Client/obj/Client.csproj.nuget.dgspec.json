@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\KSIS\\KSIS-labs-2019\\lab4-tapping-game\\Client\\Client.csproj": {}
+  },
+  "projects": {
+    "D:\\KSIS\\KSIS-labs-2019\\lab4-tapping-game\\Client\\Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KSIS\\KSIS-labs-2019\\lab4-tapping-game\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "D:\\KSIS\\KSIS-labs-2019\\lab4-tapping-game\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Mi Pro\\.nuget\\packages\\",
+        "outputPath": "D:\\KSIS\\KSIS-labs-2019\\lab4-tapping-game\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mi Pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
